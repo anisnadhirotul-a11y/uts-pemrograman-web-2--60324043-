@@ -1,8 +1,3 @@
-README kamu sudah cukup bagus, tapi masih bisa dibuat **lebih rapi, formal, dan “nilai A”** 😄
-Aku bantu revisi versi yang lebih profesional dan siap langsung kamu pakai di GitHub:
-
----
-
 # 📚 UTS Pemrograman Web 2
 
 ## Sistem Manajemen Kategori Buku
@@ -88,20 +83,7 @@ http://localhost/uts_60324043
 
 ---
 
-## ⚠️ Catatan
-
-* Pastikan database sudah terhubung dengan benar
-* Error seperti **"ID tidak valid"** terjadi jika parameter `id` tidak ditemukan pada URL
-
----
-
 ## 🔗 Repository
 
-[https://github.com/username/uts-pemrograman-web-2-60324043](https://github.com/username/uts-pemrograman-web-2-60324043)
-
+https://github.com/anisnadhirotul-a11y/uts-pemrograman-web-2--60324043-
 ---
-
-Kalau kamu mau lebih maksimal lagi, aku bisa bantu:
-
-* Tambahin **screenshot aplikasi (biar keren di GitHub)**
-* Atau buatkan **desain UI sederhana biar tampilannya lebih menarik** 👍
